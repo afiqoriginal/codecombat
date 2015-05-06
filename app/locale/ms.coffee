@@ -15,14 +15,14 @@ module.exports = nativeDescription: "Bahasa Melayu", englishDescription: "Bahasa
 
   nav:
     play: "Mula" # The top nav bar entry where players choose which levels to play
-#    community: "Community"
+#    community: "Komuniti"
 #    editor: "Editor"
 #    blog: "Blog"
 #    forum: "Forum"
-#    account: "Account"
-#    profile: "Profile"
+#    account: "Akaun"
+#    profile: "Profil"
 #    stats: "Stats"
-#    code: "Code"
+#    code: "kode"
 #    admin: "Admin" # Only shows up when you are an admin
     home: "Halaman"
     contribute: "Sumbangan"
@@ -48,11 +48,11 @@ module.exports = nativeDescription: "Bahasa Melayu", englishDescription: "Bahasa
 #    subscribe_as_diplomat: "Subscribe as a Diplomat"
 
 #  play:
-#    play_as: "Play As" # Ladder page
-#    spectate: "Spectate" # Ladder page
-#    players: "players" # Hover over a level on /play
-#    hours_played: "hours played" # Hover over a level on /play
-#    items: "Items" # Tooltip on item shop button from /play
+#    play_as: "Main sebagai" # Ladder page
+#    spectate: "Lihat" # Ladder page
+#    players: "Pemain" # Hover over a level on /play
+#    hours_played: "waktu bermain" # Hover over a level on /play
+#    items: "Item" # Tooltip on item shop button from /play
 #    unlock: "Unlock" # For purchasing items and heroes
 #    confirm: "Confirm"
 #    owned: "Owned" # For items you own
@@ -162,7 +162,7 @@ module.exports = nativeDescription: "Bahasa Melayu", englishDescription: "Bahasa
   general:
     and: "dan"
     name: "Nama"
-#    date: "Date"
+#    date: "Tarikh"
 #    body: "Body"
     version: "Versi"
 #    pending: "Pending"
